@@ -3,5 +3,5 @@ gspread
 oauth2client
 matplotlib
 numpy
+scipy
 pandas
-
